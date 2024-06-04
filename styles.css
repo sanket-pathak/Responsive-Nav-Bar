@@ -5,7 +5,7 @@
 }
 body{
     min-height: 100vh ;
-    background-image: url(photos/lappy.jpg);
+    background-image: url(lappy.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
